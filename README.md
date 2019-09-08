@@ -1,1 +1,3 @@
-# Banco-de-dados
+# Banco-de-dados  
+
+Querys e códigos importantes
